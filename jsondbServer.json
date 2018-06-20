@@ -1,0 +1,29 @@
+{
+  "jsondbServer": [
+    {
+      "id": 1,
+      "name": "chris",
+      "Training": "Angular"
+    },
+    {
+      "id": 2,
+      "name": "Test",
+      "Training": "Reactjs"
+    },
+    {
+        "id": 3,
+        "name": "Test",
+        "Training": "npm install json-server"
+      },
+      {
+        "id": 4,
+        "name": "Test",
+        "Training": "npm install node-rest-client"
+      },
+    {
+      "id": 5,
+      "name": "Vatsan",
+      "Training": "json-server jsbon.json --watch"
+    }
+  ]
+}
